@@ -1,0 +1,644 @@
+system   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wsystem.c:655  _al_win_safe_load_library        [   0.00934] PathFindOnPath found: C:\WINDOWS\system32\d3d9.dll
+system   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wsystem.c:566  load_library_at_path             [   0.02031] Calling LoadLibrary C:\WINDOWS\system32\d3d9.dll
+system   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wsystem.c:569  load_library_at_path             [   0.02165] Loaded C:\WINDOWS\system32\d3d9.dll
+d3d      I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\d3d_disp.cpp:717  _al_d3d_init_display             [   0.02957] Render-to-texture: 1
+system   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\system.c:256  al_install_system                [   0.02961] Allegro version: 5.1.9 (GIT)
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:752  get_available_pixel_formats_ext  [   0.06295] Got 42 visuals.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06298] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06299] Decoding visual no. 1...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06301] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06303] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06304] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06305] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06306] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06307] Depth buffer: 0 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06308] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06309] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06310] color: 32 (rgba 8888), depth: 0, stencil: 0, acc: 0000, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.06312] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06313] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06314] Decoding visual no. 2...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06316] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06317] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06318] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06319] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06320] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06321] Depth buffer: 0 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06323] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06324] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06325] color: 32 (rgba 8888), depth: 0, stencil: 0, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.06327] Score is : 1921
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06328] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06329] Decoding visual no. 3...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06331] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06332] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06333] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06334] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06335] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06336] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06337] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06338] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06339] color: 32 (rgba 8888), depth: 16, stencil: 0, acc: 0000, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.06341] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06342] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06343] Decoding visual no. 4...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06344] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06345] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06347] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06362] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06363] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06364] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06365] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06366] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06368] color: 32 (rgba 8888), depth: 16, stencil: 0, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.06369] Score is : 1921
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06370] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06371] Decoding visual no. 5...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06373] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06375] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06376] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06377] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06378] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06379] Depth buffer: 24 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06380] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06381] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06382] color: 32 (rgba 8888), depth: 24, stencil: 8, acc: 0000, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.06384] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06385] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06386] Decoding visual no. 6...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06387] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06388] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06389] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06390] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06392] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06393] Depth buffer: 24 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06394] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06395] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06396] color: 32 (rgba 8888), depth: 24, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.06397] Score is : 1921
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06399] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06400] Decoding visual no. 7...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06401] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06402] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06403] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06405] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06406] Color format: r8 g8 b8 a0, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06407] Depth buffer: 32 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06408] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06409] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06410] color: 32 (rgba 8880), depth: 32, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.06411] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.06412] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.06413] Decoding visual no. 8...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.06415] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.06416] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.06417] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.06418] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.06419] Color format: r8 g8 b8 a0, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.06420] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.06422] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.06423] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.06424] color: 32 (rgba 8880), depth: 16, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.06425] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07059] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07061] Decoding visual no. 9...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07072] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07073] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07079] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:238  display_pixel_format             [   0.07081] Swap method: copy
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07082] Color format: r8 g8 b8 a0, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07083] Depth buffer: 32 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07084] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07085] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07086] color: 32 (rgba 8880), depth: 32, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.07088] Score is : 897
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07089] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07090] Decoding visual no. 10...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07092] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07093] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07094] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:238  display_pixel_format             [   0.07095] Swap method: copy
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07096] Color format: r8 g8 b8 a0, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07097] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07098] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07099] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07100] color: 32 (rgba 8880), depth: 16, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.07102] Score is : 897
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07103] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07104] Decoding visual no. 11...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07106] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07107] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07108] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.07109] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07110] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07111] Depth buffer: 32 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07113] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07114] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07115] color: 32 (rgba 8888), depth: 32, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.07116] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07117] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07118] Decoding visual no. 12...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07120] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07121] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07122] Single-buffer: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.07123] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07124] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07125] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07126] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07127] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07129] color: 32 (rgba 8888), depth: 16, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:388  _al_score_display_settings       [   0.07130] Single Buffer requirement not met.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07132] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07133] Decoding visual no. 13...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07134] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07135] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07137] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:238  display_pixel_format             [   0.07138] Swap method: copy
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07139] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07140] Depth buffer: 32 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07141] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07142] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07143] color: 32 (rgba 8888), depth: 32, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.07144] Score is : 897
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07146] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07147] Decoding visual no. 14...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07148] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07149] Accelarated: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07150] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:238  display_pixel_format             [   0.07151] Swap method: copy
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07153] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07154] Depth buffer: 16 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07155] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07156] Samples: 0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:202  debug_display_settings           [   0.07157] color: 32 (rgba 8888), depth: 16, stencil: 8, acc: 16161616, samples: 0/0
+display  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\display_settings.c:517  _al_score_display_settings       [   0.07158] Score is : 897
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07159] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07160] Decoding visual no. 15...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07163] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:351  decode_pixel_format_attrib       [   0.07164] Not RGBA mode
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07165] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07166] Decoding visual no. 16...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07168] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:351  decode_pixel_format_attrib       [   0.07169] Not RGBA mode
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07170] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07171] Decoding visual no. 17...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07172] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:351  decode_pixel_format_attrib       [   0.07173] Not RGBA mode
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07175] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07176] Decoding visual no. 18...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07177] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:351  decode_pixel_format_attrib       [   0.07178] Not RGBA mode
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07179] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07180] Decoding visual no. 19...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07181] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07183] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07184] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07185] Decoding visual no. 20...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07186] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07187] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07188] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07189] Decoding visual no. 21...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07191] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07192] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07193] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07194] Decoding visual no. 22...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07195] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07196] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07198] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07199] Decoding visual no. 23...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07200] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07201] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07202] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07203] Decoding visual no. 24...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07205] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07206] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07207] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07208] Decoding visual no. 25...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07209] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07210] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07211] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07212] Decoding visual no. 26...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07214] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07215] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07216] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07217] Decoding visual no. 27...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07218] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07220] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07221] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07222] Decoding visual no. 28...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07223] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07224] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07225] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07227] Decoding visual no. 29...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07228] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07229] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07230] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07232] Decoding visual no. 30...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07233] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07234] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07235] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07236] Decoding visual no. 31...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07238] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07239] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07240] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07241] Decoding visual no. 32...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07242] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07243] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07244] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07245] Decoding visual no. 33...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07247] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07248] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07249] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07250] Decoding visual no. 34...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07251] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07252] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07253] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07254] Decoding visual no. 35...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07256] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07257] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07258] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07259] Decoding visual no. 36...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07261] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07262] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07263] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07264] Decoding visual no. 37...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07265] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07266] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07267] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07268] Decoding visual no. 38...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07270] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07271] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07272] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07273] Decoding visual no. 39...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07274] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07276] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07277] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07278] Decoding visual no. 40...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07279] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07280] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07281] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07282] Decoding visual no. 41...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07284] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07285] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:759  get_available_pixel_formats_ext  [   0.07286] -- 
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:760  get_available_pixel_formats_ext  [   0.07287] Decoding visual no. 42...
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:331  decode_pixel_format_attrib       [   0.07288] Decoding:
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:346  decode_pixel_format_attrib       [   0.07289] Can't draw to window
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:778  get_available_pixel_formats_ext  [   0.07291] 7 visuals are good enough.
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:884  select_pixel_format              [   0.07467] Chose visual no. 2
+
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:235  display_pixel_format             [   0.07469] Accelarated: yes
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:236  display_pixel_format             [   0.07471] Single-buffer: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:240  display_pixel_format             [   0.07472] Swap method: undefined
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:241  display_pixel_format             [   0.07473] Color format: r8 g8 b8 a8, 32 bit
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:247  display_pixel_format             [   0.07474] Depth buffer: 0 bits
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:248  display_pixel_format             [   0.07475] Sample buffers: no
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:249  display_pixel_format             [   0.07476] Samples: 0
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:713  _al_ogl_manage_extensions        [   0.07718] OpenGL Extensions:
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07720] GL_ARB_depth_texture
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07721] GL_ARB_fragment_program
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07722] GL_ARB_multitexture
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07724] GL_ARB_point_parameters
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07725] GL_ARB_shadow
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07726] GL_ARB_texture_border_clamp
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07727] GL_ARB_texture_compression
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07728] GL_ARB_texture_cube_map
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07729] GL_ARB_texture_env_add
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07730] GL_ARB_texture_env_combine
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07731] GL_ARB_texture_env_dot3
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07732] GL_ARB_texture_env_crossbar
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07733] GL_ARB_transpose_matrix
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07735] GL_ARB_vertex_buffer_object
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07736] GL_ARB_vertex_program
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07737] GL_ARB_window_pos
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07738] GL_EXT_abgr
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07740] GL_EXT_bgra
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07741] GL_EXT_blend_color
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07742] GL_EXT_blend_func_separate
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07743] GL_EXT_blend_minmax
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07744] GL_EXT_blend_subtract
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07745] GL_EXT_clip_volume_hint
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07746] GL_EXT_compiled_vertex_array
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07747] GL_EXT_cull_vertex
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07748] GL_EXT_draw_range_elements
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07749] GL_EXT_fog_coord
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07750] GL_EXT_multi_draw_arrays
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07751] GL_EXT_packed_pixels
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07753] GL_EXT_rescale_normal
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07754] GL_EXT_secondary_color
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07755] GL_EXT_separate_specular_color
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07756] GL_EXT_shadow_funcs
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07757] GL_EXT_stencil_two_side
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07758] GL_EXT_stencil_wrap
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07759] GL_EXT_texture_compression_s3tc
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07760] GL_EXT_texture_env_add
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07761] GL_EXT_texture_env_combine
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07762] GL_EXT_texture_filter_anisotropic
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07764] GL_EXT_texture3D
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07765] GL_3DFX_texture_compression_FXT1
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07766] GL_IBM_texture_mirrored_repeat
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07767] GL_NV_blend_square
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07768] GL_NV_texgen_reflection
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07769] GL_SGIS_generate_mipmap
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:200  print_extensions                 [   0.07770] GL_WIN_swap_hint
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:118  parse_opengl_version             [   0.07772] Parsed '1.4.0 - Build 7.14.10.4764' as 0x01040000
+opengl   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:684  fill_in_info_struct              [   0.07773] Assumed OpenGL version: 1.4.0.0
+opengl   D         gl_ext_api.h:4    load_extensions                  [   0.07775] glBlendColor successfully loaded
+opengl   D         gl_ext_api.h:5    load_extensions                  [   0.07777] glBlendEquation successfully loaded
+opengl   D         gl_ext_api.h:6    load_extensions                  [   0.07778] glDrawRangeElements successfully loaded
+opengl   D         gl_ext_api.h:16   load_extensions                  [   0.07780] glTexImage3D successfully loaded
+opengl   D         gl_ext_api.h:17   load_extensions                  [   0.07781] glTexSubImage3D successfully loaded
+opengl   D         gl_ext_api.h:18   load_extensions                  [   0.07782] glCopyTexSubImage3D successfully loaded
+opengl   D         gl_ext_api.h:48   load_extensions                  [   0.07784] glActiveTexture successfully loaded
+opengl   D         gl_ext_api.h:49   load_extensions                  [   0.07786] glClientActiveTexture successfully loaded
+opengl   D         gl_ext_api.h:50   load_extensions                  [   0.07787] glMultiTexCoord1d successfully loaded
+opengl   D         gl_ext_api.h:51   load_extensions                  [   0.07788] glMultiTexCoord1dv successfully loaded
+opengl   D         gl_ext_api.h:52   load_extensions                  [   0.07789] glMultiTexCoord1f successfully loaded
+opengl   D         gl_ext_api.h:53   load_extensions                  [   0.07790] glMultiTexCoord1fv successfully loaded
+opengl   D         gl_ext_api.h:54   load_extensions                  [   0.07791] glMultiTexCoord1i successfully loaded
+opengl   D         gl_ext_api.h:55   load_extensions                  [   0.07792] glMultiTexCoord1iv successfully loaded
+opengl   D         gl_ext_api.h:56   load_extensions                  [   0.07793] glMultiTexCoord1s successfully loaded
+opengl   D         gl_ext_api.h:57   load_extensions                  [   0.07795] glMultiTexCoord1sv successfully loaded
+opengl   D         gl_ext_api.h:58   load_extensions                  [   0.07796] glMultiTexCoord2d successfully loaded
+opengl   D         gl_ext_api.h:59   load_extensions                  [   0.07797] glMultiTexCoord2dv successfully loaded
+opengl   D         gl_ext_api.h:60   load_extensions                  [   0.07798] glMultiTexCoord2f successfully loaded
+opengl   D         gl_ext_api.h:61   load_extensions                  [   0.07799] glMultiTexCoord2fv successfully loaded
+opengl   D         gl_ext_api.h:62   load_extensions                  [   0.07800] glMultiTexCoord2i successfully loaded
+opengl   D         gl_ext_api.h:63   load_extensions                  [   0.07801] glMultiTexCoord2iv successfully loaded
+opengl   D         gl_ext_api.h:64   load_extensions                  [   0.07802] glMultiTexCoord2s successfully loaded
+opengl   D         gl_ext_api.h:65   load_extensions                  [   0.07803] glMultiTexCoord2sv successfully loaded
+opengl   D         gl_ext_api.h:66   load_extensions                  [   0.07805] glMultiTexCoord3d successfully loaded
+opengl   D         gl_ext_api.h:67   load_extensions                  [   0.07806] glMultiTexCoord3dv successfully loaded
+opengl   D         gl_ext_api.h:68   load_extensions                  [   0.07807] glMultiTexCoord3f successfully loaded
+opengl   D         gl_ext_api.h:69   load_extensions                  [   0.07808] glMultiTexCoord3fv successfully loaded
+opengl   D         gl_ext_api.h:70   load_extensions                  [   0.07809] glMultiTexCoord3i successfully loaded
+opengl   D         gl_ext_api.h:71   load_extensions                  [   0.07810] glMultiTexCoord3iv successfully loaded
+opengl   D         gl_ext_api.h:72   load_extensions                  [   0.07811] glMultiTexCoord3s successfully loaded
+opengl   D         gl_ext_api.h:73   load_extensions                  [   0.07813] glMultiTexCoord3sv successfully loaded
+opengl   D         gl_ext_api.h:74   load_extensions                  [   0.07814] glMultiTexCoord4d successfully loaded
+opengl   D         gl_ext_api.h:75   load_extensions                  [   0.07815] glMultiTexCoord4dv successfully loaded
+opengl   D         gl_ext_api.h:76   load_extensions                  [   0.07816] glMultiTexCoord4f successfully loaded
+opengl   D         gl_ext_api.h:77   load_extensions                  [   0.07817] glMultiTexCoord4fv successfully loaded
+opengl   D         gl_ext_api.h:78   load_extensions                  [   0.07818] glMultiTexCoord4i successfully loaded
+opengl   D         gl_ext_api.h:79   load_extensions                  [   0.07819] glMultiTexCoord4iv successfully loaded
+opengl   D         gl_ext_api.h:80   load_extensions                  [   0.07820] glMultiTexCoord4s successfully loaded
+opengl   D         gl_ext_api.h:81   load_extensions                  [   0.07821] glMultiTexCoord4sv successfully loaded
+opengl   D         gl_ext_api.h:82   load_extensions                  [   0.07822] glLoadTransposeMatrixf successfully loaded
+opengl   D         gl_ext_api.h:83   load_extensions                  [   0.07823] glLoadTransposeMatrixd successfully loaded
+opengl   D         gl_ext_api.h:84   load_extensions                  [   0.07824] glMultTransposeMatrixf successfully loaded
+opengl   D         gl_ext_api.h:85   load_extensions                  [   0.07825] glMultTransposeMatrixd successfully loaded
+opengl   D         gl_ext_api.h:86   load_extensions                  [   0.07827] glSampleCoverage successfully loaded
+opengl   D         gl_ext_api.h:87   load_extensions                  [   0.07828] glCompressedTexImage3D successfully loaded
+opengl   D         gl_ext_api.h:88   load_extensions                  [   0.07829] glCompressedTexImage2D successfully loaded
+opengl   D         gl_ext_api.h:89   load_extensions                  [   0.07830] glCompressedTexImage1D successfully loaded
+opengl   D         gl_ext_api.h:90   load_extensions                  [   0.07831] glCompressedTexSubImage3D successfully loaded
+opengl   D         gl_ext_api.h:91   load_extensions                  [   0.07832] glCompressedTexSubImage2D successfully loaded
+opengl   D         gl_ext_api.h:92   load_extensions                  [   0.07833] glCompressedTexSubImage1D successfully loaded
+opengl   D         gl_ext_api.h:93   load_extensions                  [   0.07834] glGetCompressedTexImage successfully loaded
+opengl   D         gl_ext_api.h:97   load_extensions                  [   0.07835] glBlendFuncSeparate successfully loaded
+opengl   D         gl_ext_api.h:98   load_extensions                  [   0.07836] glFogCoordf successfully loaded
+opengl   D         gl_ext_api.h:99   load_extensions                  [   0.07837] glFogCoordfv successfully loaded
+opengl   D         gl_ext_api.h:100  load_extensions                  [   0.07839] glFogCoordd successfully loaded
+opengl   D         gl_ext_api.h:101  load_extensions                  [   0.07840] glFogCoorddv successfully loaded
+opengl   D         gl_ext_api.h:102  load_extensions                  [   0.07841] glFogCoordPointer successfully loaded
+opengl   D         gl_ext_api.h:103  load_extensions                  [   0.07842] glMultiDrawArrays successfully loaded
+opengl   D         gl_ext_api.h:104  load_extensions                  [   0.07843] glMultiDrawElements successfully loaded
+opengl   D         gl_ext_api.h:105  load_extensions                  [   0.07844] glPointParameterf successfully loaded
+opengl   D         gl_ext_api.h:106  load_extensions                  [   0.07845] glPointParameterfv successfully loaded
+opengl   D         gl_ext_api.h:109  load_extensions                  [   0.07847] glSecondaryColor3b successfully loaded
+opengl   D         gl_ext_api.h:110  load_extensions                  [   0.07848] glSecondaryColor3bv successfully loaded
+opengl   D         gl_ext_api.h:111  load_extensions                  [   0.07849] glSecondaryColor3d successfully loaded
+opengl   D         gl_ext_api.h:112  load_extensions                  [   0.07850] glSecondaryColor3dv successfully loaded
+opengl   D         gl_ext_api.h:113  load_extensions                  [   0.07851] glSecondaryColor3f successfully loaded
+opengl   D         gl_ext_api.h:114  load_extensions                  [   0.07852] glSecondaryColor3fv successfully loaded
+opengl   D         gl_ext_api.h:115  load_extensions                  [   0.07853] glSecondaryColor3i successfully loaded
+opengl   D         gl_ext_api.h:116  load_extensions                  [   0.07854] glSecondaryColor3iv successfully loaded
+opengl   D         gl_ext_api.h:117  load_extensions                  [   0.07855] glSecondaryColor3s successfully loaded
+opengl   D         gl_ext_api.h:118  load_extensions                  [   0.07856] glSecondaryColor3sv successfully loaded
+opengl   D         gl_ext_api.h:119  load_extensions                  [   0.07857] glSecondaryColor3ub successfully loaded
+opengl   D         gl_ext_api.h:120  load_extensions                  [   0.07858] glSecondaryColor3ubv successfully loaded
+opengl   D         gl_ext_api.h:121  load_extensions                  [   0.07860] glSecondaryColor3ui successfully loaded
+opengl   D         gl_ext_api.h:122  load_extensions                  [   0.07861] glSecondaryColor3uiv successfully loaded
+opengl   D         gl_ext_api.h:123  load_extensions                  [   0.07862] glSecondaryColor3us successfully loaded
+opengl   D         gl_ext_api.h:124  load_extensions                  [   0.07863] glSecondaryColor3usv successfully loaded
+opengl   D         gl_ext_api.h:125  load_extensions                  [   0.07864] glSecondaryColorPointer successfully loaded
+opengl   D         gl_ext_api.h:126  load_extensions                  [   0.07865] glWindowPos2d successfully loaded
+opengl   D         gl_ext_api.h:127  load_extensions                  [   0.07866] glWindowPos2dv successfully loaded
+opengl   D         gl_ext_api.h:128  load_extensions                  [   0.07867] glWindowPos2f successfully loaded
+opengl   D         gl_ext_api.h:129  load_extensions                  [   0.07868] glWindowPos2fv successfully loaded
+opengl   D         gl_ext_api.h:130  load_extensions                  [   0.07869] glWindowPos2i successfully loaded
+opengl   D         gl_ext_api.h:131  load_extensions                  [   0.07870] glWindowPos2iv successfully loaded
+opengl   D         gl_ext_api.h:132  load_extensions                  [   0.07871] glWindowPos2s successfully loaded
+opengl   D         gl_ext_api.h:133  load_extensions                  [   0.07872] glWindowPos2sv successfully loaded
+opengl   D         gl_ext_api.h:134  load_extensions                  [   0.07874] glWindowPos3d successfully loaded
+opengl   D         gl_ext_api.h:135  load_extensions                  [   0.07875] glWindowPos3dv successfully loaded
+opengl   D         gl_ext_api.h:136  load_extensions                  [   0.07876] glWindowPos3f successfully loaded
+opengl   D         gl_ext_api.h:137  load_extensions                  [   0.07877] glWindowPos3fv successfully loaded
+opengl   D         gl_ext_api.h:138  load_extensions                  [   0.07878] glWindowPos3i successfully loaded
+opengl   D         gl_ext_api.h:139  load_extensions                  [   0.07879] glWindowPos3iv successfully loaded
+opengl   D         gl_ext_api.h:140  load_extensions                  [   0.07880] glWindowPos3s successfully loaded
+opengl   D         gl_ext_api.h:141  load_extensions                  [   0.07881] glWindowPos3sv successfully loaded
+opengl   D         gl_ext_api.h:385  load_extensions                  [   0.07893] glActiveTextureARB successfully loaded
+opengl   D         gl_ext_api.h:386  load_extensions                  [   0.07894] glClientActiveTextureARB successfully loaded
+opengl   D         gl_ext_api.h:387  load_extensions                  [   0.07895] glMultiTexCoord1dARB successfully loaded
+opengl   D         gl_ext_api.h:388  load_extensions                  [   0.07896] glMultiTexCoord1dvARB successfully loaded
+opengl   D         gl_ext_api.h:389  load_extensions                  [   0.07897] glMultiTexCoord1fARB successfully loaded
+opengl   D         gl_ext_api.h:390  load_extensions                  [   0.07898] glMultiTexCoord1fvARB successfully loaded
+opengl   D         gl_ext_api.h:391  load_extensions                  [   0.07900] glMultiTexCoord1iARB successfully loaded
+opengl   D         gl_ext_api.h:392  load_extensions                  [   0.07901] glMultiTexCoord1ivARB successfully loaded
+opengl   D         gl_ext_api.h:393  load_extensions                  [   0.07902] glMultiTexCoord1sARB successfully loaded
+opengl   D         gl_ext_api.h:394  load_extensions                  [   0.07903] glMultiTexCoord1svARB successfully loaded
+opengl   D         gl_ext_api.h:395  load_extensions                  [   0.07904] glMultiTexCoord2dARB successfully loaded
+opengl   D         gl_ext_api.h:396  load_extensions                  [   0.07905] glMultiTexCoord2dvARB successfully loaded
+opengl   D         gl_ext_api.h:397  load_extensions                  [   0.07906] glMultiTexCoord2fARB successfully loaded
+opengl   D         gl_ext_api.h:398  load_extensions                  [   0.07907] glMultiTexCoord2fvARB successfully loaded
+opengl   D         gl_ext_api.h:399  load_extensions                  [   0.07908] glMultiTexCoord2iARB successfully loaded
+opengl   D         gl_ext_api.h:400  load_extensions                  [   0.07910] glMultiTexCoord2ivARB successfully loaded
+opengl   D         gl_ext_api.h:401  load_extensions                  [   0.07911] glMultiTexCoord2sARB successfully loaded
+opengl   D         gl_ext_api.h:402  load_extensions                  [   0.07912] glMultiTexCoord2svARB successfully loaded
+opengl   D         gl_ext_api.h:403  load_extensions                  [   0.07913] glMultiTexCoord3dARB successfully loaded
+opengl   D         gl_ext_api.h:404  load_extensions                  [   0.07914] glMultiTexCoord3dvARB successfully loaded
+opengl   D         gl_ext_api.h:405  load_extensions                  [   0.07916] glMultiTexCoord3fARB successfully loaded
+opengl   D         gl_ext_api.h:406  load_extensions                  [   0.07917] glMultiTexCoord3fvARB successfully loaded
+opengl   D         gl_ext_api.h:407  load_extensions                  [   0.07918] glMultiTexCoord3iARB successfully loaded
+opengl   D         gl_ext_api.h:408  load_extensions                  [   0.07919] glMultiTexCoord3ivARB successfully loaded
+opengl   D         gl_ext_api.h:409  load_extensions                  [   0.07920] glMultiTexCoord3sARB successfully loaded
+opengl   D         gl_ext_api.h:410  load_extensions                  [   0.07921] glMultiTexCoord3svARB successfully loaded
+opengl   D         gl_ext_api.h:411  load_extensions                  [   0.07922] glMultiTexCoord4dARB successfully loaded
+opengl   D         gl_ext_api.h:412  load_extensions                  [   0.07923] glMultiTexCoord4dvARB successfully loaded
+opengl   D         gl_ext_api.h:413  load_extensions                  [   0.07924] glMultiTexCoord4fARB successfully loaded
+opengl   D         gl_ext_api.h:414  load_extensions                  [   0.07926] glMultiTexCoord4fvARB successfully loaded
+opengl   D         gl_ext_api.h:415  load_extensions                  [   0.07927] glMultiTexCoord4iARB successfully loaded
+opengl   D         gl_ext_api.h:416  load_extensions                  [   0.07928] glMultiTexCoord4ivARB successfully loaded
+opengl   D         gl_ext_api.h:417  load_extensions                  [   0.07929] glMultiTexCoord4sARB successfully loaded
+opengl   D         gl_ext_api.h:418  load_extensions                  [   0.07930] glMultiTexCoord4svARB successfully loaded
+opengl   D         gl_ext_api.h:422  load_extensions                  [   0.07931] glLoadTransposeMatrixfARB successfully loaded
+opengl   D         gl_ext_api.h:423  load_extensions                  [   0.07932] glLoadTransposeMatrixdARB successfully loaded
+opengl   D         gl_ext_api.h:424  load_extensions                  [   0.07933] glMultTransposeMatrixfARB successfully loaded
+opengl   D         gl_ext_api.h:425  load_extensions                  [   0.07934] glMultTransposeMatrixdARB successfully loaded
+opengl   D         gl_ext_api.h:433  load_extensions                  [   0.07935] glCompressedTexImage3DARB successfully loaded
+opengl   D         gl_ext_api.h:434  load_extensions                  [   0.07937] glCompressedTexImage2DARB successfully loaded
+opengl   D         gl_ext_api.h:435  load_extensions                  [   0.07938] glCompressedTexImage1DARB successfully loaded
+opengl   D         gl_ext_api.h:436  load_extensions                  [   0.07939] glCompressedTexSubImage3DARB successfully loaded
+opengl   D         gl_ext_api.h:437  load_extensions                  [   0.07940] glCompressedTexSubImage2DARB successfully loaded
+opengl   D         gl_ext_api.h:438  load_extensions                  [   0.07941] glCompressedTexSubImage1DARB successfully loaded
+opengl   D         gl_ext_api.h:439  load_extensions                  [   0.07942] glGetCompressedTexImageARB successfully loaded
+opengl   D         gl_ext_api.h:443  load_extensions                  [   0.07943] glPointParameterfARB successfully loaded
+opengl   D         gl_ext_api.h:444  load_extensions                  [   0.07944] glPointParameterfvARB successfully loaded
+opengl   D         gl_ext_api.h:469  load_extensions                  [   0.07946] glWindowPos2dARB successfully loaded
+opengl   D         gl_ext_api.h:470  load_extensions                  [   0.07947] glWindowPos2dvARB successfully loaded
+opengl   D         gl_ext_api.h:471  load_extensions                  [   0.07948] glWindowPos2fARB successfully loaded
+opengl   D         gl_ext_api.h:472  load_extensions                  [   0.07949] glWindowPos2fvARB successfully loaded
+opengl   D         gl_ext_api.h:473  load_extensions                  [   0.07951] glWindowPos2iARB successfully loaded
+opengl   D         gl_ext_api.h:474  load_extensions                  [   0.07952] glWindowPos2ivARB successfully loaded
+opengl   D         gl_ext_api.h:475  load_extensions                  [   0.07953] glWindowPos2sARB successfully loaded
+opengl   D         gl_ext_api.h:476  load_extensions                  [   0.07954] glWindowPos2svARB successfully loaded
+opengl   D         gl_ext_api.h:477  load_extensions                  [   0.07955] glWindowPos3dARB successfully loaded
+opengl   D         gl_ext_api.h:478  load_extensions                  [   0.07956] glWindowPos3dvARB successfully loaded
+opengl   D         gl_ext_api.h:479  load_extensions                  [   0.07957] glWindowPos3fARB successfully loaded
+opengl   D         gl_ext_api.h:480  load_extensions                  [   0.07958] glWindowPos3fvARB successfully loaded
+opengl   D         gl_ext_api.h:481  load_extensions                  [   0.07959] glWindowPos3iARB successfully loaded
+opengl   D         gl_ext_api.h:482  load_extensions                  [   0.07960] glWindowPos3ivARB successfully loaded
+opengl   D         gl_ext_api.h:483  load_extensions                  [   0.07961] glWindowPos3sARB successfully loaded
+opengl   D         gl_ext_api.h:484  load_extensions                  [   0.07962] glWindowPos3svARB successfully loaded
+opengl   D         gl_ext_api.h:488  load_extensions                  [   0.07964] glVertexAttrib1dARB successfully loaded
+opengl   D         gl_ext_api.h:489  load_extensions                  [   0.07965] glVertexAttrib1dvARB successfully loaded
+opengl   D         gl_ext_api.h:490  load_extensions                  [   0.07966] glVertexAttrib1fARB successfully loaded
+opengl   D         gl_ext_api.h:491  load_extensions                  [   0.07967] glVertexAttrib1fvARB successfully loaded
+opengl   D         gl_ext_api.h:492  load_extensions                  [   0.07968] glVertexAttrib1sARB successfully loaded
+opengl   D         gl_ext_api.h:493  load_extensions                  [   0.07969] glVertexAttrib1svARB successfully loaded
+opengl   D         gl_ext_api.h:494  load_extensions                  [   0.07970] glVertexAttrib2dARB successfully loaded
+opengl   D         gl_ext_api.h:495  load_extensions                  [   0.07971] glVertexAttrib2dvARB successfully loaded
+opengl   D         gl_ext_api.h:496  load_extensions                  [   0.07972] glVertexAttrib2fARB successfully loaded
+opengl   D         gl_ext_api.h:497  load_extensions                  [   0.07973] glVertexAttrib2fvARB successfully loaded
+opengl   D         gl_ext_api.h:498  load_extensions                  [   0.07974] glVertexAttrib2sARB successfully loaded
+opengl   D         gl_ext_api.h:499  load_extensions                  [   0.07975] glVertexAttrib2svARB successfully loaded
+opengl   D         gl_ext_api.h:500  load_extensions                  [   0.07976] glVertexAttrib3dARB successfully loaded
+opengl   D         gl_ext_api.h:501  load_extensions                  [   0.07978] glVertexAttrib3dvARB successfully loaded
+opengl   D         gl_ext_api.h:502  load_extensions                  [   0.07979] glVertexAttrib3fARB successfully loaded
+opengl   D         gl_ext_api.h:503  load_extensions                  [   0.07980] glVertexAttrib3fvARB successfully loaded
+opengl   D         gl_ext_api.h:504  load_extensions                  [   0.07981] glVertexAttrib3sARB successfully loaded
+opengl   D         gl_ext_api.h:505  load_extensions                  [   0.07982] glVertexAttrib3svARB successfully loaded
+opengl   D         gl_ext_api.h:506  load_extensions                  [   0.07983] glVertexAttrib4NbvARB successfully loaded
+opengl   D         gl_ext_api.h:507  load_extensions                  [   0.07984] glVertexAttrib4NivARB successfully loaded
+opengl   D         gl_ext_api.h:508  load_extensions                  [   0.07985] glVertexAttrib4NsvARB successfully loaded
+opengl   D         gl_ext_api.h:509  load_extensions                  [   0.07986] glVertexAttrib4NubARB successfully loaded
+opengl   D         gl_ext_api.h:510  load_extensions                  [   0.07987] glVertexAttrib4NubvARB successfully loaded
+opengl   D         gl_ext_api.h:511  load_extensions                  [   0.07989] glVertexAttrib4NuivARB successfully loaded
+opengl   D         gl_ext_api.h:512  load_extensions                  [   0.07990] glVertexAttrib4NusvARB successfully loaded
+opengl   D         gl_ext_api.h:513  load_extensions                  [   0.07991] glVertexAttrib4bvARB successfully loaded
+opengl   D         gl_ext_api.h:514  load_extensions                  [   0.07992] glVertexAttrib4dARB successfully loaded
+opengl   D         gl_ext_api.h:515  load_extensions                  [   0.07993] glVertexAttrib4dvARB successfully loaded
+opengl   D         gl_ext_api.h:516  load_extensions                  [   0.07994] glVertexAttrib4fARB successfully loaded
+opengl   D         gl_ext_api.h:517  load_extensions                  [   0.07995] glVertexAttrib4fvARB successfully loaded
+opengl   D         gl_ext_api.h:518  load_extensions                  [   0.07996] glVertexAttrib4ivARB successfully loaded
+opengl   D         gl_ext_api.h:519  load_extensions                  [   0.07997] glVertexAttrib4sARB successfully loaded
+opengl   D         gl_ext_api.h:520  load_extensions                  [   0.07999] glVertexAttrib4svARB successfully loaded
+opengl   D         gl_ext_api.h:521  load_extensions                  [   0.08000] glVertexAttrib4ubvARB successfully loaded
+opengl   D         gl_ext_api.h:522  load_extensions                  [   0.08001] glVertexAttrib4uivARB successfully loaded
+opengl   D         gl_ext_api.h:523  load_extensions                  [   0.08002] glVertexAttrib4usvARB successfully loaded
+opengl   D         gl_ext_api.h:524  load_extensions                  [   0.08003] glVertexAttribPointerARB successfully loaded
+opengl   D         gl_ext_api.h:525  load_extensions                  [   0.08004] glEnableVertexAttribArrayARB successfully loaded
+opengl   D         gl_ext_api.h:526  load_extensions                  [   0.08005] glDisableVertexAttribArrayARB successfully loaded
+opengl   D         gl_ext_api.h:527  load_extensions                  [   0.08006] glProgramStringARB successfully loaded
+opengl   D         gl_ext_api.h:528  load_extensions                  [   0.08008] glBindProgramARB successfully loaded
+opengl   D         gl_ext_api.h:529  load_extensions                  [   0.08009] glDeleteProgramsARB successfully loaded
+opengl   D         gl_ext_api.h:530  load_extensions                  [   0.08010] glGenProgramsARB successfully loaded
+opengl   D         gl_ext_api.h:531  load_extensions                  [   0.08011] glProgramEnvParameter4dARB successfully loaded
+opengl   D         gl_ext_api.h:532  load_extensions                  [   0.08012] glProgramEnvParameter4dvARB successfully loaded
+opengl   D         gl_ext_api.h:533  load_extensions                  [   0.08013] glProgramEnvParameter4fARB successfully loaded
+opengl   D         gl_ext_api.h:534  load_extensions                  [   0.08014] glProgramEnvParameter4fvARB successfully loaded
+opengl   D         gl_ext_api.h:535  load_extensions                  [   0.08016] glProgramLocalParameter4dARB successfully loaded
+opengl   D         gl_ext_api.h:536  load_extensions                  [   0.08017] glProgramLocalParameter4dvARB successfully loaded
+opengl   D         gl_ext_api.h:537  load_extensions                  [   0.08018] glProgramLocalParameter4fARB successfully loaded
+opengl   D         gl_ext_api.h:538  load_extensions                  [   0.08019] glProgramLocalParameter4fvARB successfully loaded
+opengl   D         gl_ext_api.h:539  load_extensions                  [   0.08020] glGetProgramEnvParameterdvARB successfully loaded
+opengl   D         gl_ext_api.h:540  load_extensions                  [   0.08021] glGetProgramEnvParameterfvARB successfully loaded
+opengl   D         gl_ext_api.h:541  load_extensions                  [   0.08022] glGetProgramLocalParameterdvARB successfully loaded
+opengl   D         gl_ext_api.h:542  load_extensions                  [   0.08023] glGetProgramLocalParameterfvARB successfully loaded
+opengl   D         gl_ext_api.h:543  load_extensions                  [   0.08024] glGetProgramivARB successfully loaded
+opengl   D         gl_ext_api.h:544  load_extensions                  [   0.08025] glGetProgramStringARB successfully loaded
+opengl   D         gl_ext_api.h:545  load_extensions                  [   0.08027] glGetVertexAttribdvARB successfully loaded
+opengl   D         gl_ext_api.h:546  load_extensions                  [   0.08028] glGetVertexAttribfvARB successfully loaded
+opengl   D         gl_ext_api.h:547  load_extensions                  [   0.08029] glGetVertexAttribivARB successfully loaded
+opengl   D         gl_ext_api.h:548  load_extensions                  [   0.08030] glGetVertexAttribPointervARB successfully loaded
+opengl   D         gl_ext_api.h:549  load_extensions                  [   0.08031] glIsProgramARB successfully loaded
+opengl   D         gl_ext_api.h:553  load_extensions                  [   0.08032] glBindBufferARB successfully loaded
+opengl   D         gl_ext_api.h:554  load_extensions                  [   0.08033] glDeleteBuffersARB successfully loaded
+opengl   D         gl_ext_api.h:555  load_extensions                  [   0.08034] glGenBuffersARB successfully loaded
+opengl   D         gl_ext_api.h:556  load_extensions                  [   0.08035] glIsBufferARB successfully loaded
+opengl   D         gl_ext_api.h:557  load_extensions                  [   0.08037] glBufferDataARB successfully loaded
+opengl   D         gl_ext_api.h:558  load_extensions                  [   0.08038] glBufferSubDataARB successfully loaded
+opengl   D         gl_ext_api.h:559  load_extensions                  [   0.08039] glGetBufferSubDataARB successfully loaded
+opengl   D         gl_ext_api.h:560  load_extensions                  [   0.08040] glMapBufferARB successfully loaded
+opengl   D         gl_ext_api.h:561  load_extensions                  [   0.08041] glUnmapBufferARB successfully loaded
+opengl   D         gl_ext_api.h:562  load_extensions                  [   0.08042] glGetBufferParameterivARB successfully loaded
+opengl   D         gl_ext_api.h:563  load_extensions                  [   0.08043] glGetBufferPointervARB successfully loaded
+opengl   D         gl_ext_api.h:948  load_extensions                  [   0.08057] glBlendColorEXT successfully loaded
+opengl   D         gl_ext_api.h:956  load_extensions                  [   0.08058] glTexImage3DEXT successfully loaded
+opengl   D         gl_ext_api.h:1072 load_extensions                  [   0.08063] glBlendEquationEXT successfully loaded
+opengl   D         gl_ext_api.h:1174 load_extensions                  [   0.08067] glLockArraysEXT successfully loaded
+opengl   D         gl_ext_api.h:1175 load_extensions                  [   0.08068] glUnlockArraysEXT successfully loaded
+opengl   D         gl_ext_api.h:1179 load_extensions                  [   0.08069] glCullParameterdvEXT successfully loaded
+opengl   D         gl_ext_api.h:1180 load_extensions                  [   0.08070] glCullParameterfvEXT successfully loaded
+opengl   D         gl_ext_api.h:1205 load_extensions                  [   0.08072] glDrawRangeElementsEXT successfully loaded
+opengl   D         gl_ext_api.h:1238 load_extensions                  [   0.08074] glSecondaryColor3bEXT successfully loaded
+opengl   D         gl_ext_api.h:1239 load_extensions                  [   0.08075] glSecondaryColor3bvEXT successfully loaded
+opengl   D         gl_ext_api.h:1240 load_extensions                  [   0.08076] glSecondaryColor3dEXT successfully loaded
+opengl   D         gl_ext_api.h:1241 load_extensions                  [   0.08077] glSecondaryColor3dvEXT successfully loaded
+opengl   D         gl_ext_api.h:1242 load_extensions                  [   0.08078] glSecondaryColor3fEXT successfully loaded
+opengl   D         gl_ext_api.h:1243 load_extensions                  [   0.08080] glSecondaryColor3fvEXT successfully loaded
+opengl   D         gl_ext_api.h:1244 load_extensions                  [   0.08081] glSecondaryColor3iEXT successfully loaded
+opengl   D         gl_ext_api.h:1245 load_extensions                  [   0.08082] glSecondaryColor3ivEXT successfully loaded
+opengl   D         gl_ext_api.h:1246 load_extensions                  [   0.08083] glSecondaryColor3sEXT successfully loaded
+opengl   D         gl_ext_api.h:1247 load_extensions                  [   0.08084] glSecondaryColor3svEXT successfully loaded
+opengl   D         gl_ext_api.h:1248 load_extensions                  [   0.08085] glSecondaryColor3ubEXT successfully loaded
+opengl   D         gl_ext_api.h:1249 load_extensions                  [   0.08086] glSecondaryColor3ubvEXT successfully loaded
+opengl   D         gl_ext_api.h:1250 load_extensions                  [   0.08087] glSecondaryColor3uiEXT successfully loaded
+opengl   D         gl_ext_api.h:1251 load_extensions                  [   0.08088] glSecondaryColor3uivEXT successfully loaded
+opengl   D         gl_ext_api.h:1252 load_extensions                  [   0.08090] glSecondaryColor3usEXT successfully loaded
+opengl   D         gl_ext_api.h:1253 load_extensions                  [   0.08091] glSecondaryColor3usvEXT successfully loaded
+opengl   D         gl_ext_api.h:1254 load_extensions                  [   0.08092] glSecondaryColorPointerEXT successfully loaded
+opengl   D         gl_ext_api.h:1262 load_extensions                  [   0.08093] glMultiDrawArraysEXT successfully loaded
+opengl   D         gl_ext_api.h:1263 load_extensions                  [   0.08094] glMultiDrawElementsEXT successfully loaded
+opengl   D         gl_ext_api.h:1267 load_extensions                  [   0.08095] glFogCoordfEXT successfully loaded
+opengl   D         gl_ext_api.h:1268 load_extensions                  [   0.08096] glFogCoordfvEXT successfully loaded
+opengl   D         gl_ext_api.h:1269 load_extensions                  [   0.08097] glFogCoorddEXT successfully loaded
+opengl   D         gl_ext_api.h:1270 load_extensions                  [   0.08098] glFogCoorddvEXT successfully loaded
+opengl   D         gl_ext_api.h:1271 load_extensions                  [   0.08100] glFogCoordPointerEXT successfully loaded
+opengl   D         gl_ext_api.h:1368 load_extensions                  [   0.08104] glBlendFuncSeparateEXT successfully loaded
+opengl   D         gl_ext_api.h:1723 load_extensions                  [   0.08123] glActiveStencilFaceEXT successfully loaded
+opengl   D        wgl_ext_api.h:2    load_extensions                  [   0.08157] wglCreateBufferRegionARB successfully loaded
+opengl   D        wgl_ext_api.h:3    load_extensions                  [   0.08158] wglDeleteBufferRegionARB successfully loaded
+opengl   D        wgl_ext_api.h:4    load_extensions                  [   0.08159] wglSaveBufferRegionARB successfully loaded
+opengl   D        wgl_ext_api.h:5    load_extensions                  [   0.08160] wglRestoreBufferRegionARB successfully loaded
+opengl   D        wgl_ext_api.h:8    load_extensions                  [   0.08162] wglGetExtensionsStringARB successfully loaded
+opengl   D        wgl_ext_api.h:11   load_extensions                  [   0.08163] wglGetPixelFormatAttribivARB successfully loaded
+opengl   D        wgl_ext_api.h:12   load_extensions                  [   0.08164] wglGetPixelFormatAttribfvARB successfully loaded
+opengl   D        wgl_ext_api.h:13   load_extensions                  [   0.08165] wglChoosePixelFormatARB successfully loaded
+opengl   D        wgl_ext_api.h:16   load_extensions                  [   0.08166] wglMakeContextCurrentARB successfully loaded
+opengl   D        wgl_ext_api.h:17   load_extensions                  [   0.08167] wglGetCurrentReadDCARB successfully loaded
+opengl   D        wgl_ext_api.h:20   load_extensions                  [   0.08168] wglCreatePbufferARB successfully loaded
+opengl   D        wgl_ext_api.h:21   load_extensions                  [   0.08169] wglGetPbufferDCARB successfully loaded
+opengl   D        wgl_ext_api.h:22   load_extensions                  [   0.08170] wglReleasePbufferDCARB successfully loaded
+opengl   D        wgl_ext_api.h:23   load_extensions                  [   0.08171] wglDestroyPbufferARB successfully loaded
+opengl   D        wgl_ext_api.h:24   load_extensions                  [   0.08172] wglQueryPbufferARB successfully loaded
+opengl   D        wgl_ext_api.h:41   load_extensions                  [   0.08173] wglGetExtensionsStringEXT successfully loaded
+opengl   D        wgl_ext_api.h:60   load_extensions                  [   0.08175] wglSwapIntervalEXT successfully loaded
+opengl   D        wgl_ext_api.h:61   load_extensions                  [   0.08176] wglGetSwapIntervalEXT successfully loaded
+opengl   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:842  _al_ogl_manage_extensions        [   0.08278] Packed Pixels formats available
+opengl   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:889  _al_ogl_manage_extensions        [   0.08279] Use of non-power-of-two textures disabled.
+opengl   I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\extensions.c:905  _al_ogl_manage_extensions        [   0.08281] Use of FBO to draw to textures disabled.
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\ogl_display.c:193  _al_ogl_create_backbuffer        [   0.08289] Creating backbuffer
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\ogl_display.c:215  _al_ogl_create_backbuffer        [   0.08291] Deduced format ARGB_8888 for backbuffer.
+opengl   D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\ogl_display.c:224  _al_ogl_create_backbuffer        [   0.08292] Creating backbuffer bitmap
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\opengl\ogl_display.c:240  _al_ogl_create_backbuffer        [   0.08294] Created backbuffer bitmap (actual format: ARGB_8888)
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:1048 wgl_create_display               [   0.08295] OpenGL Version: 1.4.0 - Build 7.14.10.4764
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:1049 wgl_create_display               [   0.08296] Vendor: Intel
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:1050 wgl_create_display               [   0.08297] Renderer: Intel 945G
+
+wwindow  D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wwindow.c:1132 _al_win_set_display_flag         [   0.08412] Already a non-fullscreen window
+dtor     D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\dtor.c:184  _al_register_destructor          [   0.08416] added dtor for object 003E69D0, func 62D5B5F9
+dtor     D d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\dtor.c:214  _al_unregister_destructor        [   9.69861] removed dtor for object 003E69D0
+display  I d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:1316 display_thread_proc              [   9.75423] wgl display thread exits
+display  E d:\Libraries\build\allegro\src\allegro-git\allegro-git\src\win\wgl_disp.c:1169 wgl_unset_current_display        [   9.76702] Unable unset the current context! N

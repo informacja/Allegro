@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1492546009 source:d:\programy\projekty\codeblock\allegro template\main.cpp
+	<iostream>
+	"./include/OpenGL_Grafika.h"
+	"cRGBA.h"
+
+1492544145 d:\programy\projekty\codeblock\allegro template\include\opengl_grafika.h
+	<iostream>
+	"cRGBA.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_opengl.h>
+
+1492546339 source:d:\programy\projekty\codeblock\allegro template\src\opengl_grafika.cpp
+	"../include/OpenGL_Grafika.h"
+
+1492462229 d:\programy\projekty\codeblock\allegro template\include\crgba.h
+	"cRGBA.h"
+
+1492462161 source:d:\programy\projekty\codeblock\allegro template\src\crgba.cpp
+	"cRGBA.h"
+
+1492606269 source:c:\piatek_pawel\allegro template\allegro template\main.cpp
+	<iostream>
+	"./include/OpenGL_Grafika.h"
+	"./include/cRGBA.h"
+
+1492610492 c:\piatek_pawel\allegro template\allegro template\include\opengl_grafika.h
+	<iostream>
+	"cRGBA.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_opengl.h>
+
+1492462229 c:\piatek_pawel\allegro template\allegro template\include\crgba.h
+	"cRGBA.h"
+
+1492581491 source:c:\piatek_pawel\allegro template\allegro template\src\crgba.cpp
+	"../include/cRGBA.h"
+
+1492610633 source:c:\piatek_pawel\allegro template\allegro template\src\opengl_grafika.cpp
+	"../include/OpenGL_Grafika.h"
+
+1492976082 source:d:\programy\projekty\codeblock\allegro template v2\main.cpp
+	<iostream>
+	"./include/OpenGL_Grafika.h"
+	"./include/cRGBA.h"
+
+1492976082 d:\programy\projekty\codeblock\allegro template v2\include\opengl_grafika.h
+	<iostream>
+	"cRGBA.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_opengl.h>
+
+1492462229 d:\programy\projekty\codeblock\allegro template v2\include\crgba.h
+	"cRGBA.h"
+
+1492581491 source:d:\programy\projekty\codeblock\allegro template v2\src\crgba.cpp
+	"../include/cRGBA.h"
+
+1492976429 source:d:\programy\projekty\codeblock\allegro template v2\src\opengl_grafika.cpp
+	"../include/OpenGL_Grafika.h"
+
+1493217304 source:f:\matryca led allegro opengl v2\main.cpp
+	<iostream>
+	<ctime>
+	"./include/OpenGL_Grafika.h"
+	"./include/cRGBA.h"
+
+1492976084 f:\matryca led allegro opengl v2\include\opengl_grafika.h
+	<iostream>
+	"cRGBA.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_opengl.h>
+
+1492462230 f:\matryca led allegro opengl v2\include\crgba.h
+	"cRGBA.h"
+
+1492581492 source:f:\matryca led allegro opengl v2\src\crgba.cpp
+	"../include/cRGBA.h"
+
+1493215416 source:f:\matryca led allegro opengl v2\src\opengl_grafika.cpp
+	"../include/OpenGL_Grafika.h"
+
